@@ -1,0 +1,2 @@
+https://jekhokie.github.io/ubuntu/linux/jenkins/docker/container/ci/python/2018/07/14/jenkins-ci-with-python-in-docker.html
+https://semaphoreci.com/community/tutorials/getting-started-with-mocking-in-python
